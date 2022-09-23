@@ -1,0 +1,5 @@
+https://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@github.com/SharkBr360/FATEC_IPIRANGA_TEMPLATE_MODELO_PRIME.git
+
+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
+
+https://github.com/SharkBr360/FATEC_IPIRANGA_TEMPLATE_MODELO_PRIME.git
